@@ -4,14 +4,6 @@ This repository provides an officially updated dataset for all administrative di
 Developed and maintained by Zakaria Loumaizia
 Official and up-to-date administrative data of Algeria
 
-#Languages
-
-Each dataset is available in three language formats:
-
-Arabic (UTF-8)
-
-ASCII 
-
 ## Overview
 
 There are:
@@ -37,21 +29,6 @@ XLSX (Microsoft Excel)
 
 Dart
 
-Each format provides three language versions: Arabic, ASCII (French), and bilingual.
-
-Folder Structure
-
-All formats follow a unified directory structure:
-
-%format%/%file_name% -- bilingual (Arabic + ASCII)
-
-%format%/ar/%file_name% -- Arabic only
-
-%format%/ascii/%file_name% --Folder Structure
-
-All formats follow a unified directory structure:
-
-ASCII (French) only
 
 ## Contribution Guidelines
 
