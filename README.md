@@ -25,13 +25,21 @@ There are:
 Available formats include:
 
 CSV
+
 JSON
+
 SQL
+
 PHP
+
 XLSX (Microsoft Excel)
+
 Dart
+
 Each format provides three language versions: Arabic, ASCII (French), and bilingual.
+
 Folder Structure
+
 All formats follow a unified directory structure:
 
 %format%/%file_name% -- bilingual (Arabic + ASCII)
