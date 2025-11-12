@@ -7,9 +7,10 @@ Official and up-to-date administrative data of Algeria
 #Languages
 
 Each dataset is available in three language formats:
+
 Arabic (UTF-8)
-ASCII / French transliteration
-Bilingual (Arabic + ASCII)
+
+ASCII 
 
 ## Overview
 
