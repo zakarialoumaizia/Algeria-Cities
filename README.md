@@ -35,8 +35,11 @@ Folder Structure
 All formats follow a unified directory structure:
 
 %format%/%file_name% -- bilingual (Arabic + ASCII)
+
 %format%/ar/%file_name% -- Arabic only
+
 %format%/ascii/%file_name% --Folder Structure
+
 All formats follow a unified directory structure:
 
 ASCII (French) only
@@ -54,6 +57,9 @@ Latitude & Longitude coordinates for each commune
 
 ## Author & Maintainer
 Developer: Zakaria Loumaizia
+
 Email: zakarialoumaizia@gmail.com
+
 GitHub: https://github.com/zakarialoumaizia
+
 LinkedIn:https://www.linkedin.com/in/zakaria-loumaizia/
